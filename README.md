@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matej Pal
 - 🌱 I’m currently learning PHP, mysql, python
-- 📫 You can reach me here, facebook, twitter
+- 📫 You can reach me here, Twitter, LinkedIn
 
 <!---
 MatejP92/MatejP92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
